@@ -1,0 +1,2 @@
+Nombre: R1, Estado: Encendido, Nivel de Radiación: 100
+Nombre: R2, Estado: Encendido, Nivel de Radiación: 120

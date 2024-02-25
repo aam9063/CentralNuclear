@@ -1,0 +1,5 @@
+Nombre: R1, Estado: Encendido, Nivel de Radiación: 100
+Nombre: SR1, Estado: Apagado, Temperatura: 35,5
+Nombre: SR2, Estado: Encendido, Temperatura: 40
+Nombre: R2, Estado: Encendido, Nivel de Radiación: 120
+Nombre: SR3, Estado: Apagado, Temperatura: 37
